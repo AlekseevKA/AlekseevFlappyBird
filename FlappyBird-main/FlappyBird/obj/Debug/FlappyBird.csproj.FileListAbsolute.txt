@@ -1,0 +1,34 @@
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Resource1.resources
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Aleksandr\source\repos\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\bin\Debug\FlappyBird.exe.config
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\bin\Debug\FlappyBird.exe
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\bin\Debug\FlappyBird.pdb
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.Resource1.resources
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.exe
+E:\ЗАГРУЗКИ\FlappyBirdAlekseev\FlappyBirdAlekseev\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.Resource1.resources
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Алексеев Корней\Downloads\FlappyBird-main\FlappyBird-main\FlappyBird\obj\Debug\FlappyBird.pdb
